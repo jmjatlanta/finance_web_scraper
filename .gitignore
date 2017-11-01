@@ -1,0 +1,9 @@
+.pylintrc
+.idea
+.vscode
+__pycache__
+*/__pycache__
+*/**/__pycache__
+--pycache__/
+app_config/config.json
+*.log
